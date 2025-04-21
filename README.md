@@ -1,5 +1,4 @@
 
-```markdown
 # Image Steganography
 
 Image Steganography is a project focused on hiding secret information within digital images. Using this tool, users can embed and extract hidden messages or data from images securely.
