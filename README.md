@@ -51,4 +51,14 @@ Ensure you have Python installed on your system. You can download it from [pytho
    - Click on "decode" option 
    - Provide the path to the encoded image to retrieve the hidden message.
 
+### Screenshots 
+![image](https://github.com/user-attachments/assets/52159b3a-5c27-4556-ad7a-4e418e51a62d)
+    Selection Page
+![image](https://github.com/user-attachments/assets/60da5ca7-3845-4e60-b837-34b97e85f39a)
+    Encoding Page
+![image](https://github.com/user-attachments/assets/f79a8565-2e3d-4342-931e-c7d2bc12459a)
+    Decoding Page
+
+
+
 Feel free to reach out for questions or suggestions!
